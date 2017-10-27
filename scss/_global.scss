@@ -89,6 +89,8 @@ section.success {
   color: white;
   background: $theme-success;
 }
+
+
 @media(max-width:767px) {
   section {
     padding: 75px 0;
@@ -117,3 +119,17 @@ section.success {
     }
   }
 }
+
+
+// invert colors for white images
+.inverted {
+  filter: invert(100%);
+}
+ .beacon {
+   text-align: center;
+ }
+
+ .skill {
+   height: 150px;
+   width: 150px;
+ }
