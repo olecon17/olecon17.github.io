@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a91370a2-aea4-43af-b2b2-c046fc61ad21" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mail/contact_me.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/freelancer.css" afterPath="$PROJECT_DIR$/css/freelancer.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/freelancer.min.css" afterPath="$PROJECT_DIR$/css/freelancer.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/contact_me.js" afterPath="$PROJECT_DIR$/js/contact_me.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/_variables.scss" afterPath="$PROJECT_DIR$/scss/_variables.scss" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,11 +36,11 @@
       <file leaf-file-name="contact_me.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/contact_me.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+            <state relative-caret-position="391">
+              <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
               <folding>
-                <marker date="1509465786641" expanded="true" signature="506:513" ph="×" />
-                <marker date="1509465786641" expanded="true" signature="1067:1074" ph="×" />
+                <marker date="1509466422298" expanded="true" signature="1053:1060" ph="×" />
+                <marker date="1509466422298" expanded="true" signature="1733:1740" ph="×" />
               </folding>
             </state>
           </provider>
@@ -140,11 +138,6 @@
             <path>
               <item name="Portfolio Website" type="b2602c69:ProjectViewProjectNode" />
               <item name="Portfolio Website" type="462c0819:PsiDirectoryNode" />
-              <item name="mail" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Portfolio Website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Portfolio Website" type="462c0819:PsiDirectoryNode" />
               <item name="scss" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -192,12 +185,12 @@
       <updated>1508525131463</updated>
       <workItem from="1508525133783" duration="8538000" />
       <workItem from="1509061913595" duration="5317000" />
-      <workItem from="1509464276820" duration="1512000" />
+      <workItem from="1509464276820" duration="2147000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15367000" />
+    <option name="totallyTimeSpent" value="16002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="260" y="26" width="1400" height="1000" extended-state="0" />
@@ -513,11 +506,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/contact_me.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        <state relative-caret-position="391">
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
           <folding>
-            <marker date="1509465786641" expanded="true" signature="506:513" ph="×" />
-            <marker date="1509465786641" expanded="true" signature="1067:1074" ph="×" />
+            <marker date="1509466422298" expanded="true" signature="1053:1060" ph="×" />
+            <marker date="1509466422298" expanded="true" signature="1733:1740" ph="×" />
           </folding>
         </state>
       </provider>
